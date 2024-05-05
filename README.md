@@ -1,0 +1,1 @@
+The goal of the employee management system is to create a workcenter scheduling system and The Employee Management System is a cloud-based software and it has many applications. Such as Employee registration,Viewing employee records, Deleting a existing record and modifying a existing records
